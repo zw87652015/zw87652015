@@ -1,6 +1,6 @@
 My App:
 
-Image Layout Manager
+## Image Layout Manager
 
 ILM = Inspired by Laziness. Made for research.
 
